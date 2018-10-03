@@ -24,3 +24,7 @@ def now_serving(katz_deli)
     katz_deli.shift
   end
 end
+
+def take_a_number_alternate(total, unserved)
+  new_person = total.length + 1 
+end
