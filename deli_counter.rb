@@ -27,4 +27,6 @@ end
 
 def take_a_number_alternate(total, unserved)
   new_person = total.length + 1 
+  puts "You are number #{new_person} in line."
+  
 end
